@@ -1,0 +1,2 @@
+# Rest API using Mux and Golang
+The goal of this project is to basically create a REST API using Golang and implement the Basic CRUD To the API, no database would be implemented in this Project, but later when I am going through other fundamentals of the language.
